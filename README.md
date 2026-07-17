@@ -138,7 +138,7 @@ Customer_Behavior_Analysis/
 
 
 
-![Dashboard](Dashboard.img)
+![Dashboard](Dashboard.png)
 
 
 ## 📌 Business Value
