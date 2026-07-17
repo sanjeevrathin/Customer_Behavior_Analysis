@@ -137,8 +137,8 @@ Customer_Behavior_Analysis/
 > Add your Power BI dashboard screenshot here.
 
 
-![Dashboard](Dashboard.img)
 
+Dashboard.img
 
 
 ## 📌 Business Value
