@@ -139,9 +139,7 @@ Customer_Behavior_Analysis/
 Example:
 
 ```
-![https://github.com/sanjeevrathin/Customer_Behavior_Analysis/blob/main/Dashboard.img]
-
-![Data Model](https://github.com/sanjeevrathin/Training_Institute_PowerBi_Project/blob/main/Data_Modeling/Screenshot%202026-07-14%20091904.png)
+Dashboard.png
 
 ```
 
