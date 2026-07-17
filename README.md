@@ -139,7 +139,7 @@ Customer_Behavior_Analysis/
 Example:
 
 ```
-Dashboard.png
+Dashboard.Img
 
 ```
 
