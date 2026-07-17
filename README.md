@@ -152,7 +152,7 @@ This project demonstrates how retail transaction data can be transformed into me
 **Sanjeev Rathin**
 
 - GitHub: https://github.com/sanjeevrathin
-- LinkedIn: *(linkdin (https://www.linkedin.com/in/sanjeev-rathin/))*
+- LinkedIn: https://www.linkedin.com/in/sanjeev-rathin/
 
 ---
 
